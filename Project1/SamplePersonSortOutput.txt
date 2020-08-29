@@ -1,0 +1,377 @@
+Sorting the 32 element Person file
+==================================
+
+Sorting 32 file person32.csv using selection_sort
+The number of compares are 496
+
+The sorted list is:
+Lilly 3-27-2008
+Tommy 4-7-2008
+April 5-2-2008
+Luke 5-16-2008
+Anne 6-23-2008
+Annie 6-23-2008
+Chelsea 6-23-2008
+Elijah 9-17-2008
+Jerry 2-1-2009
+James 2-21-2009
+Noah 4-7-2009
+Evelyn 10-23-2009
+Hudson 11-12-2009
+Curtis 12-28-2009
+Mary 3-11-2010
+John 3-27-2010
+Jane 6-8-2010
+Glenn 7-7-2010
+Terra 7-28-2010
+Christine 9-4-2010
+Sarah 12-21-2010
+Phoenix 2-24-2011
+Cassidy 7-2-2011
+Adam 11-1-2011
+Brian 11-27-2011
+Willa 1-14-2012
+Bella 2-2-2012
+Chris 2-2-2012
+Eleanor 2-2-2012
+Jacob 6-2-2012
+Maggie 6-14-2012
+Elizabeth 6-26-2012
+
+Sorting 32 file person32.csv using insertion_sort
+The number of compares are 257
+
+The sorted list is:
+Lilly 3-27-2008
+Tommy 4-7-2008
+April 5-2-2008
+Luke 5-16-2008
+Anne 6-23-2008
+Annie 6-23-2008
+Chelsea 6-23-2008
+Elijah 9-17-2008
+Jerry 2-1-2009
+James 2-21-2009
+Noah 4-7-2009
+Evelyn 10-23-2009
+Hudson 11-12-2009
+Curtis 12-28-2009
+Mary 3-11-2010
+John 3-27-2010
+Jane 6-8-2010
+Glenn 7-7-2010
+Terra 7-28-2010
+Christine 9-4-2010
+Sarah 12-21-2010
+Phoenix 2-24-2011
+Cassidy 7-2-2011
+Adam 11-1-2011
+Brian 11-27-2011
+Willa 1-14-2012
+Bella 2-2-2012
+Chris 2-2-2012
+Eleanor 2-2-2012
+Jacob 6-2-2012
+Maggie 6-14-2012
+Elizabeth 6-26-2012
+
+Sorting 32 file person32.csv using merge_sort
+The number of compares are 125
+
+The sorted list is:
+Lilly 3-27-2008
+Tommy 4-7-2008
+April 5-2-2008
+Luke 5-16-2008
+Anne 6-23-2008
+Annie 6-23-2008
+Chelsea 6-23-2008
+Elijah 9-17-2008
+Jerry 2-1-2009
+James 2-21-2009
+Noah 4-7-2009
+Evelyn 10-23-2009
+Hudson 11-12-2009
+Curtis 12-28-2009
+Mary 3-11-2010
+John 3-27-2010
+Jane 6-8-2010
+Glenn 7-7-2010
+Terra 7-28-2010
+Christine 9-4-2010
+Sarah 12-21-2010
+Phoenix 2-24-2011
+Cassidy 7-2-2011
+Adam 11-1-2011
+Brian 11-27-2011
+Willa 1-14-2012
+Bella 2-2-2012
+Chris 2-2-2012
+Eleanor 2-2-2012
+Jacob 6-2-2012
+Maggie 6-14-2012
+Elizabeth 6-26-2012
+
+Sorting 32 file person32.csv using quick_sort
+The number of compares are 193
+
+The sorted list is:
+Lilly 3-27-2008
+Tommy 4-7-2008
+April 5-2-2008
+Luke 5-16-2008
+Anne 6-23-2008
+Annie 6-23-2008
+Chelsea 6-23-2008
+Elijah 9-17-2008
+Jerry 2-1-2009
+James 2-21-2009
+Noah 4-7-2009
+Evelyn 10-23-2009
+Hudson 11-12-2009
+Curtis 12-28-2009
+Mary 3-11-2010
+John 3-27-2010
+Jane 6-8-2010
+Glenn 7-7-2010
+Terra 7-28-2010
+Christine 9-4-2010
+Sarah 12-21-2010
+Phoenix 2-24-2011
+Cassidy 7-2-2011
+Adam 11-1-2011
+Brian 11-27-2011
+Willa 1-14-2012
+Bella 2-2-2012
+Chris 2-2-2012
+Eleanor 2-2-2012
+Jacob 6-2-2012
+Maggie 6-14-2012
+Elizabeth 6-26-2012
+
+Sorting 32 file person32.csv using heap_sort
+The number of compares are 218
+
+The sorted list is:
+Lilly 3-27-2008
+Tommy 4-7-2008
+April 5-2-2008
+Luke 5-16-2008
+Anne 6-23-2008
+Annie 6-23-2008
+Chelsea 6-23-2008
+Elijah 9-17-2008
+Jerry 2-1-2009
+James 2-21-2009
+Noah 4-7-2009
+Evelyn 10-23-2009
+Hudson 11-12-2009
+Curtis 12-28-2009
+Mary 3-11-2010
+John 3-27-2010
+Jane 6-8-2010
+Glenn 7-7-2010
+Terra 7-28-2010
+Christine 9-4-2010
+Sarah 12-21-2010
+Phoenix 2-24-2011
+Cassidy 7-2-2011
+Adam 11-1-2011
+Brian 11-27-2011
+Willa 1-14-2012
+Bella 2-2-2012
+Chris 2-2-2012
+Eleanor 2-2-2012
+Jacob 6-2-2012
+Maggie 6-14-2012
+Elizabeth 6-26-2012
+
+Sorting the 4 different sized random Person files
+=================================================
+
+Sorting 1K file person1Ka.csv using selection_sort
+The number of compares are 523776
+
+Sorting 2K file person2Ka.csv using selection_sort
+The number of compares are 2096128
+
+Sorting 4K file person4Ka.csv using selection_sort
+The number of compares are 8386560
+
+Sorting 8K file person8Ka.csv using selection_sort
+The number of compares are 33550336
+
+Sorting 1K file person1Ka.csv using insertion_sort
+The number of compares are 263847
+
+Sorting 2K file person2Ka.csv using insertion_sort
+The number of compares are 1014577
+
+Sorting 4K file person4Ka.csv using insertion_sort
+The number of compares are 4177238
+
+Sorting 8K file person8Ka.csv using insertion_sort
+The number of compares are 16846236
+
+Sorting 1K file person1Ka.csv using merge_sort
+The number of compares are 8936
+
+Sorting 2K file person2Ka.csv using merge_sort
+The number of compares are 19932
+
+Sorting 4K file person4Ka.csv using merge_sort
+The number of compares are 43979
+
+Sorting 8K file person8Ka.csv using merge_sort
+The number of compares are 96170
+
+Sorting 1K file person1Ka.csv using quick_sort
+The number of compares are 11345
+
+Sorting 2K file person2Ka.csv using quick_sort
+The number of compares are 25369
+
+Sorting 4K file person4Ka.csv using quick_sort
+The number of compares are 59177
+
+Sorting 8K file person8Ka.csv using quick_sort
+The number of compares are 125900
+
+Sorting 1K file person1Ka.csv using heap_sort
+The number of compares are 17398
+
+Sorting 2K file person2Ka.csv using heap_sort
+The number of compares are 38734
+
+Sorting 4K file person4Ka.csv using heap_sort
+The number of compares are 85868
+
+Sorting 8K file person8Ka.csv using heap_sort
+The number of compares are 187763
+
+Sorting the 4 different sized sorted Person files
+=================================================
+
+Sorting 1K file person1Kb.csv using selection_sort
+The number of compares are 523776
+
+Sorting 2K file person2Kb.csv using selection_sort
+The number of compares are 2096128
+
+Sorting 4K file person4Kb.csv using selection_sort
+The number of compares are 8386560
+
+Sorting 8K file person8Kb.csv using selection_sort
+The number of compares are 33550336
+
+Sorting 1K file person1Kb.csv using insertion_sort
+The number of compares are 1023
+
+Sorting 2K file person2Kb.csv using insertion_sort
+The number of compares are 2047
+
+Sorting 4K file person4Kb.csv using insertion_sort
+The number of compares are 4095
+
+Sorting 8K file person8Kb.csv using insertion_sort
+The number of compares are 8191
+
+Sorting 1K file person1Kb.csv using merge_sort
+The number of compares are 5121
+
+Sorting 2K file person2Kb.csv using merge_sort
+The number of compares are 11265
+
+Sorting 4K file person4Kb.csv using merge_sort
+The number of compares are 24582
+
+Sorting 8K file person8Kb.csv using merge_sort
+The number of compares are 53276
+
+Sorting 1K file person1Kb.csv using quick_sort
+The number of compares are 8718
+
+Sorting 2K file person2Kb.csv using quick_sort
+The number of compares are 19469
+
+Sorting 4K file person4Kb.csv using quick_sort
+The number of compares are 43032
+
+Sorting 8K file person8Kb.csv using quick_sort
+The number of compares are 94255
+
+Sorting 1K file person1Kb.csv using heap_sort
+The number of compares are 18057
+
+Sorting 2K file person2Kb.csv using heap_sort
+The number of compares are 40204
+
+Sorting 4K file person4Kb.csv using heap_sort
+The number of compares are 88818
+
+Sorting 8K file person8Kb.csv using heap_sort
+The number of compares are 194331
+
+Sorting the 4 different sized reverse sorted Person files
+=========================================================
+
+Sorting 1K file person1Kc.csv using selection_sort
+The number of compares are 523776
+
+Sorting 2K file person2Kc.csv using selection_sort
+The number of compares are 2096128
+
+Sorting 4K file person4Kc.csv using selection_sort
+The number of compares are 8386560
+
+Sorting 8K file person8Kc.csv using selection_sort
+The number of compares are 33550336
+
+Sorting 1K file person1Kc.csv using insertion_sort
+The number of compares are 523776
+
+Sorting 2K file person2Kc.csv using insertion_sort
+The number of compares are 2096128
+
+Sorting 4K file person4Kc.csv using insertion_sort
+The number of compares are 8386560
+
+Sorting 8K file person8Kc.csv using insertion_sort
+The number of compares are 33550336
+
+Sorting 1K file person1Kc.csv using merge_sort
+The number of compares are 5120
+
+Sorting 2K file person2Kc.csv using merge_sort
+The number of compares are 11264
+
+Sorting 4K file person4Kc.csv using merge_sort
+The number of compares are 24576
+
+Sorting 8K file person8Kc.csv using merge_sort
+The number of compares are 53248
+
+Sorting 1K file person1Kc.csv using quick_sort
+The number of compares are 9073
+
+Sorting 2K file person2Kc.csv using quick_sort
+The number of compares are 20185
+
+Sorting 4K file person4Kc.csv using quick_sort
+The number of compares are 44433
+
+Sorting 8K file person8Kc.csv using quick_sort
+The number of compares are 97025
+
+Sorting 1K file person1Kc.csv using heap_sort
+The number of compares are 16407
+
+Sorting 2K file person2Kc.csv using heap_sort
+The number of compares are 36973
+
+Sorting 4K file person4Kc.csv using heap_sort
+The number of compares are 82308
+
+Sorting 8K file person8Kc.csv using heap_sort
+The number of compares are 180772
+
